@@ -3,7 +3,7 @@
 A customizable productivity and knowledge management app.
 
 > [!IMPORTANT]
-> The tenative launch is January 2025. Understand that the codebase is incomplete and does not resemble the final product.
+> The tenative launch is early 2025. Understand that the codebase is incomplete and does not resemble the final product.
 
 ## About
 
